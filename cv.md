@@ -55,3 +55,15 @@ Junior Frontend Developer with 1+ year of working experience in Frontend Develop
 
 - Bachelor, Tashkent University of Information Technologies (_2019 - current_):
   - Software Engineering.
+
+##### Courses:
+
+- Responsive Web Design tutorial on https://www.freecodecamp.org (completed)
+  ![freecodecamp sertificate](https://fv9-1.failiem.lv/thumb_show.php?i=cxadvhcx3&view)
+- RS Schools Course «JS/FE Course EN 2022» (in progress)
+
+##### Languages:
+
+- English - Intermediate
+- Uzbek - Native
+- Russian - Basic
