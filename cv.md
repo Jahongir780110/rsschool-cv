@@ -46,3 +46,12 @@ Junior Frontend Developer with 1+ year of working experience in Frontend Develop
       }
       return n === 0;
     };
+
+##### Experience:
+
+- ProDVD Company in Tashkent(since 09.02.2021)
+
+##### Education:
+
+- Bachelor, Tashkent University of Information Technologies (_2019 - current_):
+  - Software Engineering.
