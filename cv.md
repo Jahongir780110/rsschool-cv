@@ -7,10 +7,10 @@
 ### Contact Information:
 
 - **Phone:** +998 99 817 31 32
-- **E-mail:** jahongir780110@gmail.com
-- **Telegram:** https://t.me/jakhongir_0305
-- **Linkedin:** https://www.linkedin.com/in/jakhongir-ismoilov-9039a5203/
-- **GitHub:** https://github.com/Jahongir780110
+- **E-mail:** [jahongir780110@gmail.com](jahongir780110@gmail.com)
+- **Telegram:** [https://t.me/jakhongir_0305](jahongir780110@gmail.com)
+- **Linkedin:** [https://www.linkedin.com/in/jakhongir-ismoilov-9039a5203/](jahongir780110@gmail.com)
+- **GitHub:** [https://github.com/Jahongir780110](jahongir780110@gmail.com)
 
 ### Briefly About Myself:
 
@@ -58,7 +58,7 @@ Junior Frontend Developer with 1+ year of working experience in Frontend Develop
 
 ### Courses:
 
-- Responsive Web Design tutorial on https://www.freecodecamp.org (completed)
+- Responsive Web Design tutorial on [https://www.freecodecamp.org](https://www.freecodecamp.org) (completed)
   ![freecodecamp sertificate](https://fv9-1.failiem.lv/thumb_show.php?i=cxadvhcx3&view)
 - RS Schools Course «JS/FE Course EN 2022» (in progress)
 
