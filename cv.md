@@ -7,10 +7,10 @@
 ### Contact Information:
 
 - **Phone:** +998 99 817 31 32
-- **E-mail:** [jahongir780110@gmail.com](jahongir780110@gmail.com)
-- **Telegram:** [https://t.me/jakhongir_0305](jahongir780110@gmail.com)
-- **Linkedin:** [https://www.linkedin.com/in/jakhongir-ismoilov-9039a5203/](jahongir780110@gmail.com)
-- **GitHub:** [https://github.com/Jahongir780110](jahongir780110@gmail.com)
+- **E-mail:** [jahongir780110@gmail.com](mailto:jahongir780110@gmail.com)
+- **Telegram:** [https://t.me/jakhongir_0305](https://t.me/jakhongir_0305)
+- **Linkedin:** [https://www.linkedin.com/in/jakhongir-ismoilov-9039a5203](https://www.linkedin.com/in/jakhongir-ismoilov-9039a5203)
+- **GitHub:** [https://github.com/Jahongir780110](https://github.com/Jahongir780110)
 
 ### Briefly About Myself:
 
