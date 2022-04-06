@@ -163,3 +163,34 @@ body {
   margin-top: 8px;
   color: #666;
 }
+
+footer {
+  background-color: #1b242f;
+  padding: 32px 0;
+  color: #8f9aa7;
+}
+footer .contacts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+footer .contacts .social-link {
+  margin: 0 12px;
+}
+footer .contacts .social-link svg {
+  width: 32px;
+  fill: #8f9aa7;
+}
+footer .info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 24px;
+}
+footer .info .school-logo img {
+  width: 56px;
+}
+footer .info .name {
+  color: #8f9aa7;
+  margin: 0 16px;
+}
