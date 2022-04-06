@@ -7,5 +7,162 @@
     <title>Jakhongir CV</title>
     <link rel="stylesheet" tabindex="text/css" href="./style.css" />
   </head>
-  <body></body>
+  <body>
+    <header>
+      <nav class="navbar">
+        <div class="container">
+          <ul class="navbar__links">
+            <li class="navbar__links-link">
+              <a href="./#about">About Myself</a>
+            </li>
+            <li class="navbar__links-link">
+              <a href="./#skills">Skills</a>
+            </li>
+            <li class="navbar__links-link">
+              <a href="./#code">Code Example</a>
+            </li>
+            <li class="navbar__links-link">
+              <a href="./#projects">Projects</a>
+            </li>
+            <li class="navbar__links-link">
+              <a href="./#education">Education</a>
+            </li>
+            <li class="navbar__links-link">
+              <a href="./#contacts">Contacts</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <div class="container">
+        <div id="about">
+          <img src="./img/profile_pic.jpg" alt="Jakhongir profile picture" />
+          <h1>Jakhongir Ismoilov</h1>
+          <p>
+            Junior Frontend Developer with 1+ year of working experience in
+            Frontend Development. Skilled mostly in JavaScript and Vue.
+            Energetic and eager to learn new skills. Clean coding is my
+            priority.
+          </p>
+        </div>
+
+        <div id="skills">
+          <h2 class="title">Skills</h2>
+          <ul class="skills__list">
+            <li class="skills__list-item">
+              <span class="name">CSS</span>
+              <span style="width: calc(90% - 100px)" class="bar"></span>
+              <span class="value">90%</span>
+            </li>
+            <li class="skills__list-item">
+              <span class="name">HTML</span>
+              <span style="width: calc(90% - 100px)" class="bar"></span>
+              <span class="value">90%</span>
+            </li>
+            <li class="skills__list-item">
+              <span class="name">JavaScript</span>
+              <span style="width: calc(85% - 100px)" class="bar"></span>
+              <span class="value">85%</span>
+            </li>
+            <li class="skills__list-item">
+              <span class="name">Vue.js</span>
+              <span style="width: calc(90% - 100px)" class="bar"></span>
+              <span class="value">90%</span>
+            </li>
+            <li class="skills__list-item">
+              <span class="name">Node.js</span>
+              <span style="width: calc(80% - 100px)" class="bar"></span>
+              <span class="value">80%</span>
+            </li>
+            <li class="skills__list-item">
+              <span class="name">Express.js</span>
+              <span style="width: calc(80% - 100px)" class="bar"></span>
+              <span class="value">80%</span>
+            </li>
+            <li class="skills__list-item">
+              <span class="name">MongoDB</span>
+              <span style="width: calc(65% - 100px)" class="bar"></span>
+              <span class="value">65%</span>
+            </li>
+          </ul>
+        </div>
+
+        <div id="code">
+          <h2 class="title">Code Example</h2>
+          <p class="description">
+            <strong>Can Place Flowers Leetcode: </strong>
+            You have a long flowerbed in which some of the plots are planted,
+            and some are not. However, flowers cannot be planted in adjacent
+            plots. Given an integer array flowerbed containing 0’s and 1’s,
+            where 0 means empty and 1 means not empty, and an integer n, return
+            if n new flowers can be planted in the flowerbed without violating
+            the no-adjacent-flowers rule.
+          </p>
+          <pre>
+                <code>
+                    const canPlaceFlowers = (flowerbed, n) => {
+                        flowerbed.push(0);
+                        flowerbed.unshift(0);
+                        for (let i = 1; i < flowerbed.length - 1 && n !== 0; i++) {
+                          if (
+                            flowerbed[i] === 0 &&
+                            flowerbed[i - 1] === 0 &&
+                            flowerbed[i + 1] === 0
+                          ) {
+                            flowerbed[i] = 1;
+                            n--;
+                          }
+                        }
+                        return n === 0;
+                      };
+                </code>
+            </pre>
+        </div>
+
+        <div id="projects">
+          <h2 class="title">Projects</h2>
+          <div class="projects">
+            <div class="project">
+              <a href="https://internet-shop.netlify.app/">
+                <h4 class="name">E-Shop Website</h4>
+                <img src="./img/e-shop-template.png" alt="E-Shop Website" />
+              </a>
+            </div>
+            <div class="project">
+              <a href="https://react-my-burger-d1f4a.web.app/">
+                <h4 class="name">Burger Builder App</h4>
+                <img src="./img/burger.jpg" alt="Burger Builder Website" />
+              </a>
+            </div>
+            <div class="project">
+              <a href="https://library-website.netlify.app/">
+                <h4 class="name">Library Website</h4>
+                <img src="./img/library-website.jpg" alt="Library Website" />
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div id="education">
+          <h2 class="title">Education</h2>
+          <ul>
+            <li>
+              <h4 class="name">
+                Tashkent University of Information Technologies (2019-current)
+              </h4>
+              <p>Bachelor of Software Engineering</p>
+            </li>
+            <li>
+              <h4 class="name">
+                Academic Lyceum of Computer Technologies (2017-2019)
+              </h4>
+              <p>Computer Engineering</p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </main>
+  </body>
 </html>
