@@ -173,6 +173,9 @@ footer .contacts {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-left: 0;
+  margin: 0;
+  list-style: none;
 }
 footer .contacts .social-link {
   margin: 0 12px;
